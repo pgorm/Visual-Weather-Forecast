@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<time week="2015-09-03">
+ <symbol var="04d" name="broken clouds" number="803"/>
+ <precipitation/>
+ <windDirection name="Northwest" code="NW" deg="311"/>
+ <windSpeed name="Gentle Breeze" mps="4.32"/>
+ <temperature day="14.98" morn="14.98" eve="13.91" night="11.17" max="14.98" min="11.17"/>
+ <pressure value="1021.1" unit="hPa"/>
+ <humidity value="72" unit="%"/>
+ <clouds value="brokesn clouds" unit="%" all="68"/>
+
+ <symbol var="10d" name="light rain" number="500"/>
+ <precipitation/>
+ <windDirection name="Northwest" code="NW" deg="323"/>
+ <windSpeed name="Moderate breeze" mps="6.47"/>
+ <temperature day="15.26" morn="10.83" eve="14.88" night="8.86" max="16.17" min="8.86"/>
+ <pressure value="1023.48" unit="hPa"/>
+ <humidity value="83" unit="%"/>
+ <clouds value="broken clouds" unit="%" all="56"/>
+
+ <symbol var="10d" name="light rain" number="500"/>
+ <precipitation value="0.5" type="rain"/>
+ <windDirection name="North-northwest" code="NNW" deg="348"/>
+ <windSpeed name="Moderate breeze" mps="6.46"/>
+ <temperature day="14.82" morn="10.66" eve="13.36" night="7.28" max="15.24" min="7.28"/>
+ <pressure value="1027.92" unit="hPa"/>
+ <humidity value="86" unit="%"/>
+ <clouds value="broken clouds" unit="%" all="64"/>
+
+ <symbol var="02d" name="few clouds" number="801"/>
+ <precipitation/>
+ <windDirection name="Northwest" code="NW" deg="313"/>
+ <windSpeed name="Gentle Breeze" mps="4.92"/>
+ <temperature day="16.03" morn="6.65" eve="15.44" night="9.88" max="16.73" min="6.65"/>
+ <pressure value="1031.89" unit="hPa"/>
+ <humidity value="88" unit="%"/>
+ <clouds value="few clouds" unit="%" all="24"/>
+
+ <symbol var="03d" name="scattered clouds" number="802"/>
+ <precipitation/>
+ <windDirection name="" code="" deg="353"/>
+ <windSpeed name="Gentle Breeze" mps="4.71"/>
+ <temperature day="17.25" morn="8.8" eve="15.4" night="7.36" max="17.25" min="7.36"/>
+ <pressure value="1033.06" unit="hPa"/>
+ <humidity value="88" unit="%"/>
+ <clouds value="scattered clouds" unit="%" all="32"/>
+
+ <symbol var="10d" name="light rain" number="500"/>
+ <precipitation/>
+ <windDirection name="North-northeast" code="NNE" deg="14"/>
+ <windSpeed name="Light breeze" mps="1.95"/>
+ <temperature day="16.94" morn="6.5" eve="17.05" night="8.47" max="17.05" min="6.5"/>
+ <pressure value="1035.34" unit="hPa"/>
+ <humidity value="0" unit="%"/>
+ <clouds value="clear sky" unit="%" all="9"/>
+
+ <symbol var="01d" name="sky is clear" number="800"/>
+ <precipitation/>
+ <windDirection name="South" code="S" deg="185"/>
+ <windSpeed name="Light breeze" mps="2.01"/>
+ <temperature day="19.29" morn="7.21" eve="18.04" night="10.88" max="19.29" min="7.21"/>
+ <pressure value="1034.3" unit="hPa"/>
+ <humidity value="0" unit="%"/>
+ <clouds value="scattered clouds" unit="%" all="28"/>
+</time>
